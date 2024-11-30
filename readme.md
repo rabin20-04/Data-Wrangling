@@ -1,5 +1,5 @@
 
-# Data Wrangling Project
+# Data Wrangling 
 
 ## Overview
 This project refines raw data into a clean, structured format for analysis.The goal is to prepare data by addressing issues related to inconsistencies, missing values, and formatting to make it suitable for further analysis. The project involves working with multiple datasets for data wrangling.
